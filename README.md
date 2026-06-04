@@ -13,7 +13,7 @@
 <p><img align="right" height="225" width="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning **Pearson BTEC Higher National Diploma in Software Engineering**
+- 🌱 I’m currently undergraduate in **BSc (Hons) Computing @ Wrexham University**
 
 - 👨‍💻 All of my projects are available at [https://kalanaheshan.netlify.app/](https://kalanaheshan.netlify.app/)
 
